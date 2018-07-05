@@ -1,0 +1,20 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Lectio Strategy & Planning"
+theme = "learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  themeVariant = "netspective"
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Plan Site for RoadMap of Lectio"
+  author = "Jayakrishnan S"
+  showVisitedLinks = true
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
