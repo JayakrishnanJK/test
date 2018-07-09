@@ -3,7 +3,7 @@ title : "1.Roadmap"
 description : "Lectio Roadmap and Project Plan"
 ---
 
-
+{{< cockpit >}}
 
 ## Lectio Roadmap && Project Plan 
 
